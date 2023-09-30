@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of Bioinformatics <br>🌱 I’m currently learning Python, R and SQL<br>💼 I'm looking for intership <br>💬 Reach me via [Linkedin](https://www.linkedin.com/in/natalia-gonkiewicz-78096528b/)<br>
+🔭 I’m a student of Bioinformatics <br>🌱 I’m currently learning Python, R and SQL<br>💼 I'm looking for intership <br>💬 Reach me via [Linkedin](https://www.linkedin.com/in/natalia-gonkiewicz-78096528b/)<br>
 
 
 # 💻 Tech Stack:
